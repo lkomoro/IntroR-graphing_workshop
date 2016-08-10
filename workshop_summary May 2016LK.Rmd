@@ -4,6 +4,7 @@ author: "Tomo Eguchi and Lisa Komoroske"
 date: '`r Sys.Date()`'
 output: word_document
 ---
+*N.B. work in progress-need to update graphic links, etc.*
 
 #A teaser on R Markdown and Knitr
 This is a document made with R Markdown and Knitr in RStudio, demonstrating how a MS Word document can be created using R. This will eliminate copying and pasting results and plots when writing a document in MS Word. When finding an error in your data, all you need to do is to fix your data and run the document (knit) in R. All corrections will be made simulataneously, including figures and statistics.  
